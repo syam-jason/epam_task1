@@ -1,0 +1,20 @@
+<html>
+<head>
+    <style>
+        body{
+            background-image: url("C:/Users/hp/Downloads/background-for-websites_190573.jpg");
+        }
+        h1{
+            background-color: skyblue;
+            font-family: sans-serif;
+            background-size: auto;
+            background-repeat: no-repeat;
+            
+        }
+    </style>
+
+</head>
+<body>
+        <h1 align="center"><marquee> KL UNIVERSITY</marquee></h1>
+</body>
+</html>
